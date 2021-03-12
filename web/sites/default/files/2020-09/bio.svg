@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.607860584 0.519934373 66.3841601 0.519934373 66.3841601 66.2947368 0.607860584 66.2947368"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-5" transform="translate(-868.000000, -555.000000)">
+            <g id="simbolos" transform="translate(732.000000, 194.000000)">
+                <g id="bio" transform="translate(135.444712, 360.570481)">
+                    <g>
+                        <g id="Group-43" transform="translate(0.000000, 0.007053)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-42"></g>
+                            <path d="M0.608853684,33.1492726 C0.754137895,14.9845147 15.59358,0.377809474 33.7590432,0.520977895 C51.9195695,0.664851579 66.52698,15.5064095 66.3831063,33.6690516 C66.2392326,51.8302832 51.39838,66.4369884 33.2406747,66.29382 C15.0738011,66.1499463 0.469211579,51.3105042 0.608853684,33.1492726" id="Fill-41" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M33.6490221,18.2395863 C37.0392221,22.8773968 40.4061484,27.0779442 43.3231168,31.5704705 C46.2704116,36.1130705 45.6166326,40.9913758 42.0811484,44.8590389 C38.8312958,48.4192074 33.2385589,49.5991126 28.7939905,47.6652811 C24.0898853,45.6228389 21.1785589,40.9137968 21.8365695,35.93746 C22.0425063,34.3908179 22.7026326,32.7426179 23.6138326,31.4738495 C26.7501379,27.1125021 30.0888537,22.8957337 33.6490221,18.2395863" id="Fill-44" fill="#D6A229"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
